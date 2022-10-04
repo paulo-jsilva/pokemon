@@ -1,0 +1,1572 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "base_experience": 64,
+    "weight": 69.0,
+    "height": 7.0,
+    "order": 1,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "BMI": 483.0
+  },
+  {
+    "id": 2,
+    "name": "Ivysaur",
+    "base_experience": 142,
+    "weight": 130.0,
+    "height": 10.0,
+    "order": 2,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+    "BMI": 1300.0
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "base_experience": 263,
+    "weight": 1000.0,
+    "height": 20.0,
+    "order": 3,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+    "BMI": 20000.0
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "base_experience": 62,
+    "weight": 85.0,
+    "height": 6.0,
+    "order": 5,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "BMI": 510.0
+  },
+  {
+    "id": 5,
+    "name": "Charmeleon",
+    "base_experience": 142,
+    "weight": 190.0,
+    "height": 11.0,
+    "order": 6,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+    "BMI": 2090.0
+  },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "base_experience": 267,
+    "weight": 905.0,
+    "height": 17.0,
+    "order": 7,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+    "BMI": 15385.0
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "base_experience": 63,
+    "weight": 90.0,
+    "height": 5.0,
+    "order": 10,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "BMI": 450.0
+  },
+  {
+    "id": 8,
+    "name": "Wartortle",
+    "base_experience": 142,
+    "weight": 225.0,
+    "height": 10.0,
+    "order": 11,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+    "BMI": 2250.0
+  },
+  {
+    "id": 9,
+    "name": "Blastoise",
+    "base_experience": 265,
+    "weight": 855.0,
+    "height": 16.0,
+    "order": 12,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+    "BMI": 13680.0
+  },
+  {
+    "id": 10,
+    "name": "Caterpie",
+    "base_experience": 39,
+    "weight": 29.0,
+    "height": 3.0,
+    "order": 14,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+    "BMI": 87.0
+  },
+  {
+    "id": 11,
+    "name": "Metapod",
+    "base_experience": 72,
+    "weight": 99.0,
+    "height": 7.0,
+    "order": 15,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+    "BMI": 693.0
+  },
+  {
+    "id": 12,
+    "name": "Butterfree",
+    "base_experience": 198,
+    "weight": 320.0,
+    "height": 11.0,
+    "order": 16,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+    "BMI": 3520.0
+  },
+  {
+    "id": 13,
+    "name": "Weedle",
+    "base_experience": 39,
+    "weight": 32.0,
+    "height": 3.0,
+    "order": 17,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+    "BMI": 96.0
+  },
+  {
+    "id": 14,
+    "name": "Kakuna",
+    "base_experience": 72,
+    "weight": 100.0,
+    "height": 6.0,
+    "order": 18,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+    "BMI": 600.0
+  },
+  {
+    "id": 15,
+    "name": "Beedrill",
+    "base_experience": 178,
+    "weight": 295.0,
+    "height": 10.0,
+    "order": 19,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+    "BMI": 2950.0
+  },
+  {
+    "id": 16,
+    "name": "Pidgey",
+    "base_experience": 50,
+    "weight": 18.0,
+    "height": 3.0,
+    "order": 21,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+    "BMI": 54.0
+  },
+  {
+    "id": 17,
+    "name": "Pidgeotto",
+    "base_experience": 122,
+    "weight": 300.0,
+    "height": 11.0,
+    "order": 22,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+    "BMI": 3300.0
+  },
+  {
+    "id": 18,
+    "name": "Pidgeot",
+    "base_experience": 216,
+    "weight": 395.0,
+    "height": 15.0,
+    "order": 23,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+    "BMI": 5925.0
+  },
+  {
+    "id": 19,
+    "name": "Rattata",
+    "base_experience": 51,
+    "weight": 35.0,
+    "height": 3.0,
+    "order": 25,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+    "BMI": 105.0
+  },
+  {
+    "id": 20,
+    "name": "Raticate",
+    "base_experience": 145,
+    "weight": 185.0,
+    "height": 7.0,
+    "order": 27,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+    "BMI": 1295.0
+  },
+  {
+    "id": 21,
+    "name": "Spearow",
+    "base_experience": 52,
+    "weight": 20.0,
+    "height": 3.0,
+    "order": 30,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
+    "BMI": 60.0
+  },
+  {
+    "id": 22,
+    "name": "Fearow",
+    "base_experience": 155,
+    "weight": 380.0,
+    "height": 12.0,
+    "order": 31,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+    "BMI": 4560.0
+  },
+  {
+    "id": 23,
+    "name": "Ekans",
+    "base_experience": 58,
+    "weight": 69.0,
+    "height": 20.0,
+    "order": 32,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+    "BMI": 1380.0
+  },
+  {
+    "id": 24,
+    "name": "Arbok",
+    "base_experience": 157,
+    "weight": 650.0,
+    "height": 35.0,
+    "order": 33,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+    "BMI": 22750.0
+  },
+  {
+    "id": 25,
+    "name": "Pikachu",
+    "base_experience": 112,
+    "weight": 60.0,
+    "height": 4.0,
+    "order": 35,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+    "BMI": 240.0
+  },
+  {
+    "id": 26,
+    "name": "Raichu",
+    "base_experience": 243,
+    "weight": 300.0,
+    "height": 8.0,
+    "order": 51,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+    "BMI": 2400.0
+  },
+  {
+    "id": 27,
+    "name": "Sandshrew",
+    "base_experience": 60,
+    "weight": 120.0,
+    "height": 6.0,
+    "order": 53,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+    "BMI": 720.0
+  },
+  {
+    "id": 28,
+    "name": "Sandslash",
+    "base_experience": 158,
+    "weight": 295.0,
+    "height": 10.0,
+    "order": 55,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
+    "BMI": 2950.0
+  },
+  {
+    "id": 29,
+    "name": "Nidoran-f",
+    "base_experience": 55,
+    "weight": 70.0,
+    "height": 4.0,
+    "order": 57,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
+    "BMI": 280.0
+  },
+  {
+    "id": 30,
+    "name": "Nidorina",
+    "base_experience": 128,
+    "weight": 200.0,
+    "height": 8.0,
+    "order": 58,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
+    "BMI": 1600.0
+  },
+  {
+    "id": 31,
+    "name": "Nidoqueen",
+    "base_experience": 253,
+    "weight": 600.0,
+    "height": 13.0,
+    "order": 59,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
+    "BMI": 7800.0
+  },
+  {
+    "id": 32,
+    "name": "Nidoran-m",
+    "base_experience": 55,
+    "weight": 90.0,
+    "height": 5.0,
+    "order": 60,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
+    "BMI": 450.0
+  },
+  {
+    "id": 33,
+    "name": "Nidorino",
+    "base_experience": 128,
+    "weight": 195.0,
+    "height": 9.0,
+    "order": 61,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
+    "BMI": 1755.0
+  },
+  {
+    "id": 34,
+    "name": "Nidoking",
+    "base_experience": 253,
+    "weight": 620.0,
+    "height": 14.0,
+    "order": 62,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
+    "BMI": 8680.0
+  },
+  {
+    "id": 35,
+    "name": "Clefairy",
+    "base_experience": 113,
+    "weight": 75.0,
+    "height": 6.0,
+    "order": 64,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
+    "BMI": 450.0
+  },
+  {
+    "id": 36,
+    "name": "Clefable",
+    "base_experience": 242,
+    "weight": 400.0,
+    "height": 13.0,
+    "order": 65,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
+    "BMI": 5200.0
+  },
+  {
+    "id": 37,
+    "name": "Vulpix",
+    "base_experience": 60,
+    "weight": 99.0,
+    "height": 6.0,
+    "order": 66,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+    "BMI": 594.0
+  },
+  {
+    "id": 38,
+    "name": "Ninetales",
+    "base_experience": 177,
+    "weight": 199.0,
+    "height": 11.0,
+    "order": 68,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+    "BMI": 2189.0
+  },
+  {
+    "id": 39,
+    "name": "Jigglypuff",
+    "base_experience": 95,
+    "weight": 55.0,
+    "height": 5.0,
+    "order": 71,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+    "BMI": 275.0
+  },
+  {
+    "id": 40,
+    "name": "Wigglytuff",
+    "base_experience": 218,
+    "weight": 120.0,
+    "height": 10.0,
+    "order": 72,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
+    "BMI": 1200.0
+  },
+  {
+    "id": 41,
+    "name": "Zubat",
+    "base_experience": 49,
+    "weight": 75.0,
+    "height": 8.0,
+    "order": 73,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
+    "BMI": 600.0
+  },
+  {
+    "id": 42,
+    "name": "Golbat",
+    "base_experience": 159,
+    "weight": 550.0,
+    "height": 16.0,
+    "order": 74,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
+    "BMI": 8800.0
+  },
+  {
+    "id": 43,
+    "name": "Oddish",
+    "base_experience": 64,
+    "weight": 54.0,
+    "height": 5.0,
+    "order": 76,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
+    "BMI": 270.0
+  },
+  {
+    "id": 44,
+    "name": "Gloom",
+    "base_experience": 138,
+    "weight": 86.0,
+    "height": 8.0,
+    "order": 77,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
+    "BMI": 688.0
+  },
+  {
+    "id": 45,
+    "name": "Vileplume",
+    "base_experience": 245,
+    "weight": 186.0,
+    "height": 12.0,
+    "order": 78,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
+    "BMI": 2232.0
+  },
+  {
+    "id": 46,
+    "name": "Paras",
+    "base_experience": 57,
+    "weight": 54.0,
+    "height": 3.0,
+    "order": 80,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
+    "BMI": 162.0
+  },
+  {
+    "id": 47,
+    "name": "Parasect",
+    "base_experience": 142,
+    "weight": 295.0,
+    "height": 10.0,
+    "order": 81,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
+    "BMI": 2950.0
+  },
+  {
+    "id": 48,
+    "name": "Venonat",
+    "base_experience": 61,
+    "weight": 300.0,
+    "height": 10.0,
+    "order": 82,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
+    "BMI": 3000.0
+  },
+  {
+    "id": 49,
+    "name": "Venomoth",
+    "base_experience": 158,
+    "weight": 125.0,
+    "height": 15.0,
+    "order": 83,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
+    "BMI": 1875.0
+  },
+  {
+    "id": 50,
+    "name": "Diglett",
+    "base_experience": 53,
+    "weight": 8.0,
+    "height": 2.0,
+    "order": 84,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
+    "BMI": 16.0
+  },
+  {
+    "id": 51,
+    "name": "Dugtrio",
+    "base_experience": 149,
+    "weight": 333.0,
+    "height": 7.0,
+    "order": 86,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
+    "BMI": 2331.0
+  },
+  {
+    "id": 52,
+    "name": "Meowth",
+    "base_experience": 58,
+    "weight": 42.0,
+    "height": 4.0,
+    "order": 88,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+    "BMI": 168.0
+  },
+  {
+    "id": 53,
+    "name": "Persian",
+    "base_experience": 154,
+    "weight": 320.0,
+    "height": 10.0,
+    "order": 91,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
+    "BMI": 3200.0
+  },
+  {
+    "id": 54,
+    "name": "Psyduck",
+    "base_experience": 64,
+    "weight": 196.0,
+    "height": 8.0,
+    "order": 93,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+    "BMI": 1568.0
+  },
+  {
+    "id": 55,
+    "name": "Golduck",
+    "base_experience": 175,
+    "weight": 766.0,
+    "height": 17.0,
+    "order": 94,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
+    "BMI": 13022.0
+  },
+  {
+    "id": 56,
+    "name": "Mankey",
+    "base_experience": 61,
+    "weight": 280.0,
+    "height": 5.0,
+    "order": 95,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
+    "BMI": 1400.0
+  },
+  {
+    "id": 57,
+    "name": "Primeape",
+    "base_experience": 159,
+    "weight": 320.0,
+    "height": 10.0,
+    "order": 96,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
+    "BMI": 3200.0
+  },
+  {
+    "id": 58,
+    "name": "Growlithe",
+    "base_experience": 70,
+    "weight": 190.0,
+    "height": 7.0,
+    "order": 97,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
+    "BMI": 1330.0
+  },
+  {
+    "id": 59,
+    "name": "Arcanine",
+    "base_experience": 194,
+    "weight": 1550.0,
+    "height": 19.0,
+    "order": 98,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
+    "BMI": 29450.0
+  },
+  {
+    "id": 60,
+    "name": "Poliwag",
+    "base_experience": 60,
+    "weight": 124.0,
+    "height": 6.0,
+    "order": 99,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
+    "BMI": 744.0
+  },
+  {
+    "id": 61,
+    "name": "Poliwhirl",
+    "base_experience": 135,
+    "weight": 200.0,
+    "height": 10.0,
+    "order": 100,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
+    "BMI": 2000.0
+  },
+  {
+    "id": 62,
+    "name": "Poliwrath",
+    "base_experience": 255,
+    "weight": 540.0,
+    "height": 13.0,
+    "order": 101,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
+    "BMI": 7020.0
+  },
+  {
+    "id": 63,
+    "name": "Abra",
+    "base_experience": 62,
+    "weight": 195.0,
+    "height": 9.0,
+    "order": 103,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
+    "BMI": 1755.0
+  },
+  {
+    "id": 64,
+    "name": "Kadabra",
+    "base_experience": 140,
+    "weight": 565.0,
+    "height": 13.0,
+    "order": 104,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
+    "BMI": 7345.0
+  },
+  {
+    "id": 65,
+    "name": "Alakazam",
+    "base_experience": 250,
+    "weight": 480.0,
+    "height": 15.0,
+    "order": 105,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+    "BMI": 7200.0
+  },
+  {
+    "id": 66,
+    "name": "Machop",
+    "base_experience": 61,
+    "weight": 195.0,
+    "height": 8.0,
+    "order": 107,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
+    "BMI": 1560.0
+  },
+  {
+    "id": 67,
+    "name": "Machoke",
+    "base_experience": 142,
+    "weight": 705.0,
+    "height": 15.0,
+    "order": 108,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
+    "BMI": 10575.0
+  },
+  {
+    "id": 68,
+    "name": "Machamp",
+    "base_experience": 253,
+    "weight": 1300.0,
+    "height": 16.0,
+    "order": 109,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
+    "BMI": 20800.0
+  },
+  {
+    "id": 69,
+    "name": "Bellsprout",
+    "base_experience": 60,
+    "weight": 40.0,
+    "height": 7.0,
+    "order": 110,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
+    "BMI": 280.0
+  },
+  {
+    "id": 70,
+    "name": "Weepinbell",
+    "base_experience": 137,
+    "weight": 64.0,
+    "height": 10.0,
+    "order": 111,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
+    "BMI": 640.0
+  },
+  {
+    "id": 71,
+    "name": "Victreebel",
+    "base_experience": 221,
+    "weight": 155.0,
+    "height": 17.0,
+    "order": 112,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
+    "BMI": 2635.0
+  },
+  {
+    "id": 72,
+    "name": "Tentacool",
+    "base_experience": 67,
+    "weight": 455.0,
+    "height": 9.0,
+    "order": 113,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
+    "BMI": 4095.0
+  },
+  {
+    "id": 73,
+    "name": "Tentacruel",
+    "base_experience": 180,
+    "weight": 550.0,
+    "height": 16.0,
+    "order": 114,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
+    "BMI": 8800.0
+  },
+  {
+    "id": 74,
+    "name": "Geodude",
+    "base_experience": 60,
+    "weight": 200.0,
+    "height": 4.0,
+    "order": 115,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
+    "BMI": 800.0
+  },
+  {
+    "id": 75,
+    "name": "Graveler",
+    "base_experience": 137,
+    "weight": 1050.0,
+    "height": 10.0,
+    "order": 117,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
+    "BMI": 10500.0
+  },
+  {
+    "id": 76,
+    "name": "Golem",
+    "base_experience": 223,
+    "weight": 3000.0,
+    "height": 14.0,
+    "order": 119,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
+    "BMI": 42000.0
+  },
+  {
+    "id": 77,
+    "name": "Ponyta",
+    "base_experience": 82,
+    "weight": 300.0,
+    "height": 10.0,
+    "order": 121,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
+    "BMI": 3000.0
+  },
+  {
+    "id": 78,
+    "name": "Rapidash",
+    "base_experience": 175,
+    "weight": 950.0,
+    "height": 17.0,
+    "order": 123,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
+    "BMI": 16150.0
+  },
+  {
+    "id": 79,
+    "name": "Slowpoke",
+    "base_experience": 63,
+    "weight": 360.0,
+    "height": 12.0,
+    "order": 125,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
+    "BMI": 4320.0
+  },
+  {
+    "id": 80,
+    "name": "Slowbro",
+    "base_experience": 172,
+    "weight": 785.0,
+    "height": 16.0,
+    "order": 127,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
+    "BMI": 12560.0
+  },
+  {
+    "id": 81,
+    "name": "Magnemite",
+    "base_experience": 65,
+    "weight": 60.0,
+    "height": 3.0,
+    "order": 132,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
+    "BMI": 180.0
+  },
+  {
+    "id": 82,
+    "name": "Magneton",
+    "base_experience": 163,
+    "weight": 600.0,
+    "height": 10.0,
+    "order": 133,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
+    "BMI": 6000.0
+  },
+  {
+    "id": 83,
+    "name": "Farfetchd",
+    "base_experience": 132,
+    "weight": 150.0,
+    "height": 8.0,
+    "order": 135,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
+    "BMI": 1200.0
+  },
+  {
+    "id": 84,
+    "name": "Doduo",
+    "base_experience": 62,
+    "weight": 392.0,
+    "height": 14.0,
+    "order": 137,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
+    "BMI": 5488.0
+  },
+  {
+    "id": 85,
+    "name": "Dodrio",
+    "base_experience": 165,
+    "weight": 852.0,
+    "height": 18.0,
+    "order": 138,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
+    "BMI": 15336.0
+  },
+  {
+    "id": 86,
+    "name": "Seel",
+    "base_experience": 65,
+    "weight": 900.0,
+    "height": 11.0,
+    "order": 139,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
+    "BMI": 9900.0
+  },
+  {
+    "id": 87,
+    "name": "Dewgong",
+    "base_experience": 166,
+    "weight": 1200.0,
+    "height": 17.0,
+    "order": 140,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
+    "BMI": 20400.0
+  },
+  {
+    "id": 88,
+    "name": "Grimer",
+    "base_experience": 65,
+    "weight": 300.0,
+    "height": 9.0,
+    "order": 141,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
+    "BMI": 2700.0
+  },
+  {
+    "id": 89,
+    "name": "Muk",
+    "base_experience": 175,
+    "weight": 300.0,
+    "height": 12.0,
+    "order": 143,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
+    "BMI": 3600.0
+  },
+  {
+    "id": 90,
+    "name": "Shellder",
+    "base_experience": 61,
+    "weight": 40.0,
+    "height": 3.0,
+    "order": 145,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
+    "BMI": 120.0
+  },
+  {
+    "id": 91,
+    "name": "Cloyster",
+    "base_experience": 184,
+    "weight": 1325.0,
+    "height": 15.0,
+    "order": 146,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
+    "BMI": 19875.0
+  },
+  {
+    "id": 92,
+    "name": "Gastly",
+    "base_experience": 62,
+    "weight": 1.0,
+    "height": 13.0,
+    "order": 147,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
+    "BMI": 13.0
+  },
+  {
+    "id": 93,
+    "name": "Haunter",
+    "base_experience": 142,
+    "weight": 1.0,
+    "height": 16.0,
+    "order": 148,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
+    "BMI": 16.0
+  },
+  {
+    "id": 94,
+    "name": "Gengar",
+    "base_experience": 250,
+    "weight": 405.0,
+    "height": 15.0,
+    "order": 149,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+    "BMI": 6075.0
+  },
+  {
+    "id": 95,
+    "name": "Onix",
+    "base_experience": 77,
+    "weight": 2100.0,
+    "height": 88.0,
+    "order": 151,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
+    "BMI": 184800.0
+  },
+  {
+    "id": 96,
+    "name": "Drowzee",
+    "base_experience": 66,
+    "weight": 324.0,
+    "height": 10.0,
+    "order": 154,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png",
+    "BMI": 3240.0
+  },
+  {
+    "id": 97,
+    "name": "Hypno",
+    "base_experience": 169,
+    "weight": 756.0,
+    "height": 16.0,
+    "order": 155,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
+    "BMI": 12096.0
+  },
+  {
+    "id": 98,
+    "name": "Krabby",
+    "base_experience": 65,
+    "weight": 65.0,
+    "height": 4.0,
+    "order": 156,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
+    "BMI": 260.0
+  },
+  {
+    "id": 99,
+    "name": "Kingler",
+    "base_experience": 166,
+    "weight": 600.0,
+    "height": 13.0,
+    "order": 157,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
+    "BMI": 7800.0
+  },
+  {
+    "id": 100,
+    "name": "Voltorb",
+    "base_experience": 66,
+    "weight": 104.0,
+    "height": 5.0,
+    "order": 158,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
+    "BMI": 520.0
+  },
+  {
+    "id": 101,
+    "name": "Electrode",
+    "base_experience": 172,
+    "weight": 666.0,
+    "height": 12.0,
+    "order": 159,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
+    "BMI": 7992.0
+  },
+  {
+    "id": 102,
+    "name": "Exeggcute",
+    "base_experience": 65,
+    "weight": 25.0,
+    "height": 4.0,
+    "order": 160,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
+    "BMI": 100.0
+  },
+  {
+    "id": 103,
+    "name": "Exeggutor",
+    "base_experience": 186,
+    "weight": 1200.0,
+    "height": 20.0,
+    "order": 161,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
+    "BMI": 24000.0
+  },
+  {
+    "id": 104,
+    "name": "Cubone",
+    "base_experience": 64,
+    "weight": 65.0,
+    "height": 4.0,
+    "order": 163,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
+    "BMI": 260.0
+  },
+  {
+    "id": 105,
+    "name": "Marowak",
+    "base_experience": 149,
+    "weight": 450.0,
+    "height": 10.0,
+    "order": 164,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
+    "BMI": 4500.0
+  },
+  {
+    "id": 106,
+    "name": "Hitmonlee",
+    "base_experience": 159,
+    "weight": 498.0,
+    "height": 15.0,
+    "order": 168,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
+    "BMI": 7470.0
+  },
+  {
+    "id": 107,
+    "name": "Hitmonchan",
+    "base_experience": 159,
+    "weight": 502.0,
+    "height": 14.0,
+    "order": 169,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
+    "BMI": 7028.0
+  },
+  {
+    "id": 108,
+    "name": "Lickitung",
+    "base_experience": 77,
+    "weight": 655.0,
+    "height": 12.0,
+    "order": 171,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
+    "BMI": 7860.0
+  },
+  {
+    "id": 109,
+    "name": "Koffing",
+    "base_experience": 68,
+    "weight": 10.0,
+    "height": 6.0,
+    "order": 173,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
+    "BMI": 60.0
+  },
+  {
+    "id": 110,
+    "name": "Weezing",
+    "base_experience": 172,
+    "weight": 95.0,
+    "height": 12.0,
+    "order": 174,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
+    "BMI": 1140.0
+  },
+  {
+    "id": 111,
+    "name": "Rhyhorn",
+    "base_experience": 69,
+    "weight": 1150.0,
+    "height": 10.0,
+    "order": 176,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
+    "BMI": 11500.0
+  },
+  {
+    "id": 112,
+    "name": "Rhydon",
+    "base_experience": 170,
+    "weight": 1200.0,
+    "height": 19.0,
+    "order": 177,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
+    "BMI": 22800.0
+  },
+  {
+    "id": 113,
+    "name": "Chansey",
+    "base_experience": 395,
+    "weight": 346.0,
+    "height": 11.0,
+    "order": 180,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
+    "BMI": 3806.0
+  },
+  {
+    "id": 114,
+    "name": "Tangela",
+    "base_experience": 87,
+    "weight": 350.0,
+    "height": 10.0,
+    "order": 182,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
+    "BMI": 3500.0
+  },
+  {
+    "id": 115,
+    "name": "Kangaskhan",
+    "base_experience": 172,
+    "weight": 800.0,
+    "height": 22.0,
+    "order": 184,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
+    "BMI": 17600.0
+  },
+  {
+    "id": 116,
+    "name": "Horsea",
+    "base_experience": 59,
+    "weight": 80.0,
+    "height": 4.0,
+    "order": 186,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
+    "BMI": 320.0
+  },
+  {
+    "id": 117,
+    "name": "Seadra",
+    "base_experience": 154,
+    "weight": 250.0,
+    "height": 12.0,
+    "order": 187,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
+    "BMI": 3000.0
+  },
+  {
+    "id": 118,
+    "name": "Goldeen",
+    "base_experience": 64,
+    "weight": 150.0,
+    "height": 6.0,
+    "order": 189,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
+    "BMI": 900.0
+  },
+  {
+    "id": 119,
+    "name": "Seaking",
+    "base_experience": 158,
+    "weight": 390.0,
+    "height": 13.0,
+    "order": 190,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
+    "BMI": 5070.0
+  },
+  {
+    "id": 120,
+    "name": "Staryu",
+    "base_experience": 68,
+    "weight": 345.0,
+    "height": 8.0,
+    "order": 191,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
+    "BMI": 2760.0
+  },
+  {
+    "id": 121,
+    "name": "Starmie",
+    "base_experience": 182,
+    "weight": 800.0,
+    "height": 11.0,
+    "order": 192,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
+    "BMI": 8800.0
+  },
+  {
+    "id": 122,
+    "name": "Mr-mime",
+    "base_experience": 161,
+    "weight": 545.0,
+    "height": 13.0,
+    "order": 194,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
+    "BMI": 7085.0
+  },
+  {
+    "id": 123,
+    "name": "Scyther",
+    "base_experience": 100,
+    "weight": 560.0,
+    "height": 15.0,
+    "order": 196,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
+    "BMI": 8400.0
+  },
+  {
+    "id": 124,
+    "name": "Jynx",
+    "base_experience": 159,
+    "weight": 406.0,
+    "height": 14.0,
+    "order": 200,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
+    "BMI": 5684.0
+  },
+  {
+    "id": 125,
+    "name": "Electabuzz",
+    "base_experience": 172,
+    "weight": 300.0,
+    "height": 11.0,
+    "order": 202,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
+    "BMI": 3300.0
+  },
+  {
+    "id": 126,
+    "name": "Magmar",
+    "base_experience": 173,
+    "weight": 445.0,
+    "height": 13.0,
+    "order": 205,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
+    "BMI": 5785.0
+  },
+  {
+    "id": 127,
+    "name": "Pinsir",
+    "base_experience": 175,
+    "weight": 550.0,
+    "height": 15.0,
+    "order": 207,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
+    "BMI": 8250.0
+  },
+  {
+    "id": 128,
+    "name": "Tauros",
+    "base_experience": 172,
+    "weight": 884.0,
+    "height": 14.0,
+    "order": 209,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
+    "BMI": 12376.0
+  },
+  {
+    "id": 129,
+    "name": "Magikarp",
+    "base_experience": 40,
+    "weight": 100.0,
+    "height": 9.0,
+    "order": 210,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
+    "BMI": 900.0
+  },
+  {
+    "id": 130,
+    "name": "Gyarados",
+    "base_experience": 189,
+    "weight": 2350.0,
+    "height": 65.0,
+    "order": 211,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
+    "BMI": 152750.0
+  },
+  {
+    "id": 131,
+    "name": "Lapras",
+    "base_experience": 187,
+    "weight": 2200.0,
+    "height": 25.0,
+    "order": 213,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+    "BMI": 55000.0
+  },
+  {
+    "id": 132,
+    "name": "Ditto",
+    "base_experience": 101,
+    "weight": 40.0,
+    "height": 3.0,
+    "order": 214,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
+    "BMI": 120.0
+  },
+  {
+    "id": 133,
+    "name": "Eevee",
+    "base_experience": 65,
+    "weight": 65.0,
+    "height": 3.0,
+    "order": 215,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+    "BMI": 195.0
+  },
+  {
+    "id": 134,
+    "name": "Vaporeon",
+    "base_experience": 184,
+    "weight": 290.0,
+    "height": 10.0,
+    "order": 217,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
+    "BMI": 2900.0
+  },
+  {
+    "id": 135,
+    "name": "Jolteon",
+    "base_experience": 184,
+    "weight": 245.0,
+    "height": 8.0,
+    "order": 218,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
+    "BMI": 1960.0
+  },
+  {
+    "id": 136,
+    "name": "Flareon",
+    "base_experience": 184,
+    "weight": 250.0,
+    "height": 9.0,
+    "order": 219,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
+    "BMI": 2250.0
+  },
+  {
+    "id": 137,
+    "name": "Porygon",
+    "base_experience": 79,
+    "weight": 365.0,
+    "height": 8.0,
+    "order": 225,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
+    "BMI": 2920.0
+  },
+  {
+    "id": 138,
+    "name": "Omanyte",
+    "base_experience": 71,
+    "weight": 75.0,
+    "height": 4.0,
+    "order": 228,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
+    "BMI": 300.0
+  },
+  {
+    "id": 139,
+    "name": "Omastar",
+    "base_experience": 173,
+    "weight": 350.0,
+    "height": 10.0,
+    "order": 229,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
+    "BMI": 3500.0
+  },
+  {
+    "id": 140,
+    "name": "Kabuto",
+    "base_experience": 71,
+    "weight": 115.0,
+    "height": 5.0,
+    "order": 230,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
+    "BMI": 575.0
+  },
+  {
+    "id": 141,
+    "name": "Kabutops",
+    "base_experience": 173,
+    "weight": 405.0,
+    "height": 13.0,
+    "order": 231,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
+    "BMI": 5265.0
+  },
+  {
+    "id": 142,
+    "name": "Aerodactyl",
+    "base_experience": 180,
+    "weight": 590.0,
+    "height": 18.0,
+    "order": 232,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
+    "BMI": 10620.0
+  },
+  {
+    "id": 143,
+    "name": "Snorlax",
+    "base_experience": 189,
+    "weight": 4600.0,
+    "height": 21.0,
+    "order": 235,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+    "BMI": 96600.0
+  },
+  {
+    "id": 144,
+    "name": "Articuno",
+    "base_experience": 290,
+    "weight": 554.0,
+    "height": 17.0,
+    "order": 236,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
+    "BMI": 9418.0
+  },
+  {
+    "id": 145,
+    "name": "Zapdos",
+    "base_experience": 290,
+    "weight": 526.0,
+    "height": 16.0,
+    "order": 238,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
+    "BMI": 8416.0
+  },
+  {
+    "id": 146,
+    "name": "Moltres",
+    "base_experience": 290,
+    "weight": 600.0,
+    "height": 20.0,
+    "order": 240,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
+    "BMI": 12000.0
+  },
+  {
+    "id": 147,
+    "name": "Dratini",
+    "base_experience": 60,
+    "weight": 33.0,
+    "height": 18.0,
+    "order": 242,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
+    "BMI": 594.0
+  },
+  {
+    "id": 148,
+    "name": "Dragonair",
+    "base_experience": 147,
+    "weight": 165.0,
+    "height": 40.0,
+    "order": 243,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
+    "BMI": 6600.0
+  },
+  {
+    "id": 149,
+    "name": "Dragonite",
+    "base_experience": 300,
+    "weight": 2100.0,
+    "height": 22.0,
+    "order": 244,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+    "BMI": 46200.0
+  },
+  {
+    "id": 150,
+    "name": "Mewtwo",
+    "base_experience": 340,
+    "weight": 1220.0,
+    "height": 20.0,
+    "order": 245,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+    "BMI": 24400.0
+  },
+  {
+    "id": 151,
+    "name": "Mew",
+    "base_experience": 300,
+    "weight": 40.0,
+    "height": 4.0,
+    "order": 248,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
+    "BMI": 160.0
+  },
+  {
+    "id": 201,
+    "name": "Unown",
+    "base_experience": 118,
+    "weight": 50.0,
+    "height": 5.0,
+    "order": 297,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201.png",
+    "BMI": 250.0
+  },
+  {
+    "id": 301,
+    "name": "Delcatty",
+    "base_experience": 140,
+    "weight": 326.0,
+    "height": 11.0,
+    "order": 404,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png",
+    "BMI": 3586.0
+  },
+  {
+    "id": 401,
+    "name": "Kricketot",
+    "base_experience": 39,
+    "weight": 22.0,
+    "height": 3.0,
+    "order": 532,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/401.png",
+    "BMI": 66.0
+  },
+  {
+    "id": 501,
+    "name": "Oshawott",
+    "base_experience": 62,
+    "weight": 59.0,
+    "height": 5.0,
+    "order": 616,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/501.png",
+    "BMI": 295.0
+  },
+  {
+    "id": 601,
+    "name": "Klinklang",
+    "base_experience": 260,
+    "weight": 810.0,
+    "height": 6.0,
+    "order": 723,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/601.png",
+    "BMI": 4860.0
+  },
+  {
+    "id": 10001,
+    "name": "Deoxys-attack",
+    "base_experience": 270,
+    "weight": 608.0,
+    "height": 17.0,
+    "order": 515,
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10001.png",
+    "BMI": 10336.0
+  }
+]
