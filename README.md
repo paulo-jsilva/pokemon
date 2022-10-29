@@ -4,9 +4,9 @@
 "Take down a vicious ramsomware attack on Pokémon's community"
 
 # The Problem
-After a vicious ransomware attack to one of the most known Pokémon's community - Yellow - which relies on data to support its activities, has lost a lot of the data and approach me to help them out to get the lost data back
+After a vicious ransomware attack to one of the most known Pokémon's community - Yellow - which relies on data to support its activities, they have lost a lot of the data and approach me to help them out to get the lost data back
 
-The PokéAPI is a RESTful API of all known Pokémon.
+After a quick search I found the PokéAPI which is a RESTful API of all known Pokémon.
 
 To get information on a single Pokémon the following GET request can be used 
 `https://pokeapi.co/api/v2/pokemon/<index>`. Replace `<index>` by an integer to get the Pokémon with that index number.
