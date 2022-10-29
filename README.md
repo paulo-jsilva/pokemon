@@ -1,4 +1,4 @@
-<img src="https://cdn-icons-png.flaticon.com/128/188/188987.png" title="image Title" />
+<img src="https://cdn-icons-png.flaticon.com/128/188/188987.png" title="Pikachu" />
 
 # Help Wanted!!
 "Take down a vicious ramsomware attack on Pokémon's community"
@@ -9,7 +9,7 @@ After a vicious ransomware attack to one of the most known Pokémon's community 
 The PokéAPI is a RESTful API of all known Pokémon.
 
 To get information on a single Pokémon the following GET request can be used 
-https://pokeapi.co/api/v2/pokemon/<index>. Replace <index> with an integer to get the Pokémon with that index number.
+`https://pokeapi.co/api/v2/pokemon/<index>`. Replace `<index>` by an integer to get the Pokémon with that index number.
 
 The response returned from querying the PokéAPI is formatted as JSON. The structure of the JSON can be seen in the [PokéAPI Documentation](URL "https://pokeapi.co/docs/v2#pokemon"). The documentation also contains information of all the many other endpoints of PokéAPI
 
